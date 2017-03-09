@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Terra Technica 2k17</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+
+    <string-array name="sponsorList"></string-array>
+
+    <string name="dice_face">Dice Face</string>
+    <string name="roll">Roll</string>
+    <string name="hold">Hold</string>
+    <string name="reset">Reset</string>
+
+    <string name="user_winner">You are the winner!</string>
+    <string name="cpu_winner">CPU is the winner!</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>

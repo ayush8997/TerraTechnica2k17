@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/01d42b321d56f8da0b5b12ef54232fb75244bbae/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3f7595ca32e614b454ceb7b7e241bb037a28e86">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/classes_02939d68ae2f10e78e730707dcdde75ed8340abc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/c510d8971dc427eee573f847f88a3be74449a114/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/classes_a255994992d2cb4273d4a1fcf8dd802e7f13bc55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/1ced4b26e7e6b13c2b4776f2f899f08bfeed97ce/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/classes_6ea4ce2cc53cac2c8faa5c82673447f24d8ce511.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/6af4f3fae726651356eae05619ed6632debf2de8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/classes_6f3b10defd5db5df4656856b96fae619d2350702.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_114e56a96bae4bfbe68f3cb5648632de869adba6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/6daefb8199c399774cbb32aa49b9881860f05d0b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ef2d91da513c4d7e773ae438fe04d0e4c135957">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/classes_4ef4ab16f1691181a0ddb2aae94650248aa85878.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/44296ad383aa6933205d48426080bd9288486a19/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/classes_e850961f65d78729c784dd3ccdb212e74d8046bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_b91eac65c0acafc759266ac88b3eddf9507e6da8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/8dac3b5c5e64be05a4ebb75416172265269a1e13/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/classes_4293550bb926bf9370acba7834146225a2850f5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/fb08ef1df766d6e3005436f4202d5b408fd17e7b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3f4483afd050f3be12db7838422309446a45daa1">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/classes_69d213f4847c6187e73bc9ca2df9af3c6eb79dc7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/50c33405b47b4f1623184d2480b86aee078fd974/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/classes_a611f1b002f3f036b60d3a791ae1dc4b7389c4a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/987418b5e292b1d20e88f6ac73f9def9f122540b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="db48dfabe8ecc46681ceca418d6bd61a5339f818">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/classes_5fdc38cc12c5f21ba5b7f437e3e573a5b38fc155.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/aefc7a907b94d0d29ec464636d62ecaeb4906af9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/classes_1914ddc0d9adb69c1f1b9a40d991729dc9be153b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/05c6e3025e518bd410f97f878f2cc0d2523a4d7a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8cec50fc9cc847bad0d6ed7d93814f4b34744521">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/classes_b5c6b0e0a6d78605d0f8aeb5c274b68b9f523497.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/caec1c0ec997858b484c0229c109759e78b0c94b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1df6d719c4e264d66bb98baa5cb637495b8cca66">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/classes_ac9f35d7d2cbf6b65f8c7975dfc63da7e0a311b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/a4b1ee674fc941da7e96a83f31d507903f250fe3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45e0953544711e0b5a2d227732e88cccb82793bc">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/classes_b64780c802ecbd5f9a99b7e89b5151fa3b106ccf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/44296ad383aa6933205d48426080bd9288486a19/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_8776b5548a45b3e81d880bbb47c5fc1ff19149dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/f2af70b9336bad594308959ac0beeb2bb29fca7c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/classes_bab81402574de69f1ceeb767863280de7691ccf4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/61904c79883113b1f3d5561ed93900ba7a51086f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ab0c7fe28f9506302eb39adf1ebf5858732e18ec">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/classes_597d8380df2eb4ec12e75eb714cc7a4fd93a6c8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/4d11b7da398a1076031dd2f430f39ff2034b7b57/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/classes_10cfe2dd3a3755648e80b47b3646daec0e81b773.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/a25d50400021715e6b2ed161559616e0c41466e4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e1d31656bc9f1889283836e025e6cb703acd38a">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/classes_04c14fcb0110b9d424c22c772d96cc5df9b6f19a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/26aba83420dac835b7606d3b614b0e97b3304bca/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa23e4589287adb431ef59d6c78af79ab8885682">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/classes_91e4aff4c7a47d0d5a605cbba21933adc4c15a34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/1353984798c171e8ef417f5893a8646189efaafb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/classes_08d1e360bb4d0ac1da1eced61e420307bb71f15c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/ae8467c388cc08f76665aa82f3dd14df5a328220/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="74c5a91d6510ad42410e8a047d90d2ea6721a0e0">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/classes_3d11ab138389f192b53a108db79770bb420344fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/1353984798c171e8ef417f5893a8646189efaafb/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_6942c7c9c71c6e0ad620d28357c4c7d7e67af167.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/4d11b7da398a1076031dd2f430f39ff2034b7b57/output/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_2023f12c3538abf77fc6162ee19d79e9835e670e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/287700c15480a486ae6fb6e142e3d79fdd5e977d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d08bb32b88df3dbcbe1d498c3c57f020b8c521ec">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/classes_16b87c7eae1bca2c68ec6700fc96cccd59fdb3dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/02cc4ee36dd37a533c7ed1c6a39be9d59b259f62/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="421a5cebe9ff187c98075c59786e9464c5c67d36">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/classes_70c429e04c26e3cd84da23d29c444cfb3fbda3f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/44ce932dbdfdb19880c36a9f6d14f8662fa74272/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="db4aca1c1ec60f2c098d3b6c91cedfb7838f83ed">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/classes_5d8de7ec0ac40fcfc3352a9116b72d9e38a6ef69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/3719e33e0fe3af9304b8c9da557bab114fe3e480/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7d14fe9bd2283b2eb7fcab08458aa0357917e138">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/classes_0b1b8bc55fa5fd360d96747fd47a381e4771674a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/3b55e1152c3ad9c15f2b41e24904f16aad27b0d0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="48532a016bb0dfbe7970c147ce784598a515406b">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/classes_638ff9bdaeaa68ccd3585d38deffce3a6ac271f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/5bd9a33de8872f8678378ba79607c63c0fd0b4c7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="90270132a5f1a33584f453c571257dd35e728201">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/classes_7f784a84093a7349dc279c5c4e1c6e735d81c1b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/361fe3ff7795555290c17771421ef7adb7e21233/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="654b294d429b56fd18392f2b68ad79954f431f8e">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/classes_097fe52343b653de1069931eee9f913471e6f7b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/1f54816d52c742816c8e01957bb32e514d3e30e1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9d1d0e1270310e34e2d65afda2bc18605c14cd46">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/classes_17a5d74252a2ea2965b35f3276b9a1528ec9d29f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/427fb0d2f6a0c8bececa25334fb4483a0b3ecfe0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3aaf1e7b5fe9f4d3ff22c4edc0ead631f7389d30">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/classes_5ddee54b391b249834abaf956f2c3a0383d2d8a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/fb7f001eaf5d76ec8b2e40be2b712c07fc3c72b8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1bab75be1918fc9871be4da7afe38d7e4d308303">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/classes_272812f7e455ffaf019835e4f5e5b124e5010efa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/3cd1a2278582be1070afe5fb197c96624a578f9d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea03bbfaed89818f233ee9918fac493f2b63895a">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/classes_7aaa9bc7746475c2b34cc32b9be854080785859c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/4f328a51c2f57ee84b312b9f5f14a66cb87e1135/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/classes_667a3dc9f325f0bc60ce4698b269c347203951eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/c0cf8a1bcd91090dfd590c1065d076c2144989e2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/classes_2d1ebabe25c344ed78501e81a6094015a692de0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/7e0c8ba0043bcf453ddf6aa51ca7ba3a71314f67/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0e301f24b283f14b564f660c9abe863af6be5896">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/classes_adc3a25ec5778548baa0f0a9463119a43bd4768c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/aed92cff966ed23cdd5a2f8779b63bd24d8fd89a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6da05b7498da036b5b37c3beb861cd2060929dcd">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/classes_50013ae4299aef0d09cae83ba1b4818199033495.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/37090dabef18c5c559c64acbce07dd45a0754c26/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7e947f993bf32a00fcb3078cdda8bb11c930afb">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/classes_3c00872d95c947cd497a85224db4c29e1923fc55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/30257c1a0cb1ea7623b15ed56024a55a191166d7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0f58195bee8a08f35e7d4ee7fd4b0479e570e172">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/classes_4bce476b3014e61dcdf5706140b08f955d437dda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/52e690cbefa140abebe86e72aed07fe2ec080103/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b831d3902674d096189451d46fce219e2c2904b7">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/classes_05a25d31a2b9c0dbe4663a656653d7ed009493ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/d4e79ffeb4c77c6dad46bf8a66c5180ffc43a308/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="75575883f0348fc5d2be85f23bd10b050095cf17">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/classes_2faff2ad9e783f786471631b184d67e571ed06a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/e01e6ceea5782798c766573350913776e4272532/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="101393e975eaf36e3ff40b277ee9a019e077afef">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/classes_1538b274f5085d8803979f3a0317569c8de234d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/4386522379ffb5a8d521dac72a3e8f4c97aa04c9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/classes_d00ec10936bd9014a568fae3d4b009b74dd51f3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/74b73b4da7d2c947459352f359cfe31ec834c9a8/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_4bddeac688288a869ea8953ca90ae831d287f9f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/b76111abb1b955d0e7f47896bbd40ddc905e1760/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9493f008850469ed3fab9b28658919562882aed">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/classes_c32bfba7bea1eda564bc816b216ad5e49cb36876.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/4071fc49fba07af780f62fc369adb09eca44deaf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/classes_a96131eb891556c66429d19d847b5ea8ba6704d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/7804506c50c5de5fa2d184b2878c571fdc7f919a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/classes_1af3086e2c11650efc4eb1209690952958f2551a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/4386522379ffb5a8d521dac72a3e8f4c97aa04c9/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_88a35b22ae5551fa4612cf9b4009c608cb8a1f6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/b4e1e4446d61b1424b93459038aaf264dd01f5cc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94fca868854457ede6df15c902938468c71d579e">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/classes_ebb11b478f3ad269b89b9a6aaba5cbabcfc79630.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/c0f5970a3e3e6b3a15f05e055a951a65adb778d5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/classes_ef08b3c5d0945dbec59ddf0cfea2f710d7dcc7db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/99404ac272c54c9990b34acd943d22d7734d9438/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/classes_f44d6aca6b13863946ddf4ff5dd593006ab9627d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_576e52f1e112049a3f7770a79be7e4426ac18cc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/1c52a8c99b4cc79b432b5f5e9a2bb17f87263662/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="646b2c48e147b943f0a39842457fdc66d501e4b6">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/classes_79b24eb8473bdb7103256ff7aec8de4d4b7f009b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/d89c00343036f00fcecf9c07182b4286520cc3cb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8438c64f9eb581429dc592f7c9b3156a3d071653">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/classes_c45db11d1b6b7c7a43b3b072fbd034037bbcc944.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/8cc55854e8c08670133b5d695a1ddcfa2c9120ff/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="68485f21eeb5d6c9ed82c445d520b9fc81c87108">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/classes_1132a07370320a5db70e9adfd148e6dd08ae6a06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/3a68a2ced63d463aaadc1897f02b38c4bb9d263b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/classes_f01c5037d7172fd9dbddc911beed2048cce7c1bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/74b73b4da7d2c947459352f359cfe31ec834c9a8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/classes_abccda9d73f17ebdaddf0363bae56569a55d5b0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/6af4f3fae726651356eae05619ed6632debf2de8/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_1a6c9a4d8b92cebf6ed155b61a8f29d2956de34b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/okio-1.9.0_cbf4318e0e20708d03c7e21ad1b40985da65eede.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/01654586f428526adef0a65d4d13db43fd6ddf3e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fd2e9eadc9d214966ee7f60d6c5a17a335d7533">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/classes_393e88eb597a47021f41ee68db19cae5e6c76310.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/fef05d1a7e410dbb185418df62c41b66b0c04e8d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="857ce7350acf811749c8fd0254d3d39b02aa71f5">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/classes_919a8be7c545cebdcf6813c41f2c871d28f1a522.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/library-2.4.0_bd88bca63ecd16c115ca7ac9b761e56d2f4ff3c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/f639a6d660ebd58d024482424bf30866a6e3e291/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca82d5800780b1d53f0f9ab43678d8634a34cddc">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/classes_545dba88c8f6cef097d6a0d332ee18ef134b65fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/e6b72a33762ab3e18324fdacb117a56f81694b65/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="423fb69e69759d8b726fa4a4fb6a1ea9fc86d1cd">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/classes_832545474591d2b3bfa509c5884c2d38b9f67dbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/3776493491a1d653df68f5d4dce3cf570a49bc1a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7157a9577c983651d6c6ee313813424fe2d8ab6">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/classes_39b4c1f557b975f2072cc17653a8df5332a52fe1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/21c28bafcf3d68e2da977aff1db8bcd45b64bca8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="444f9de23145e8caba7bf1c1772acad142ea6013">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/classes_9be428f29bee96c8a7754cb13711aa3bce526012.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/9a862baf722248b847ac0478d581445ec75760ff/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/classes_30f5f9457d2db4a221b5e70feda730525eabad20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/62367a7189c14a424c36d6b0d71fb0b8d369a376/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4e01b82d664e1a8253b2b9658e74b5da35c8771d">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/classes_c48163ef463523ee651ca8c5cc66344425740b03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/42cf3ba296c572eb99bdd112e888293689f9f006/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ddb7fed808f4331174b59428ccfc46b3696c9812">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/classes_851d73c338c497ee755612c32089bb9c5431a74e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/23c7564eb0c8bfae5c6e58c13bd902b4420a53d9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1fbf3733f36fea63e70373212796e70f9079981f">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/classes_4a8b02a430c1915c4ab73ea6fe600c8215709d5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manojit/.android/build-cache/64cdc8d7258df4a4fa7b5dd484193f64439bc12b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/home/manojit/Downloads/TerraTechnica2k17/app/build/intermediates/pre-dexed/debug/classes_5f560685cd32755c66ea20a6e0902d298332c03c.jar" />
+    </item>
+
+</items>

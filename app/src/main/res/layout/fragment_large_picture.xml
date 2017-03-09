@@ -1,0 +1,20 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.newbies.terrateam.terratechnica2k17.LargePicture">
+
+    <Button
+        android:id="@+id/downloadB"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Download"
+        />
+
+    <ImageView
+        android:id="@+id/largeIV"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:transitionName="largePic"/>
+
+</FrameLayout>

@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "287060189483",
+    "firebase_url": "https://hello-98c01.firebaseio.com",
+    "project_id": "hello-98c01",
+    "storage_bucket": "hello-98c01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287060189483:android:85d8718b0a822b9c",
+        "android_client_info": {
+          "package_name": "com.newbies.terrateam.terratechnica2k17"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287060189483-gdlg0djgrnnjb27ht5p8uejjrd7c8t1e.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "287060189483-o5e9sn11llt5i7qa576rghnsnkdi12ob.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.newbies.terrateam.terratechnica2k17",
+            "certificate_hash": "bb7ef5c2ddb9f88d3a2de5f570824cc0f2fa99e8"
+          }
+        },
+        {
+          "client_id": "287060189483-88ip7ejh0fh0vu6d6287hvrpeo69mfpj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALJZuIr1UVmdbTG3KCVuSxb9d4UyLnEFw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287060189483-gdlg0djgrnnjb27ht5p8uejjrd7c8t1e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
