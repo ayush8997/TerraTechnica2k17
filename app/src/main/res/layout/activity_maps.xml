@@ -1,7 +1,62 @@
-<fragment xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:id="@+id/map"
-    android:name="com.google.android.gms.maps.SupportMapFragment"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.newbies.terrateam.terratechnica2k17.Maps.Maps" />
+    android:orientation="vertical">
+
+    <android.support.v7.widget.CardView
+
+        android:id="@+id/card_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="3dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        card_view:cardBackgroundColor="#002448"
+        card_view:cardCornerRadius="5dp"
+        card_view:contentPadding="4dp">
+        <!--change color accordingly-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/nitd"
+            android:gravity="center_horizontal"
+            android:textAllCaps="true"
+            android:textColor="#fff"
+            android:textSize="24sp"/>
+
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="3dp"
+        android:layout_marginTop="3dp"
+        card_view:cardBackgroundColor="#002448"
+        card_view:cardCornerRadius="5dp"
+        card_view:contentPadding="4dp">
+
+    <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/address"
+            android:gravity="center_horizontal"
+            android:textColor="#fff"
+            android:textSize="18sp"/>
+
+    </android.support.v7.widget.CardView>
+
+    <fragment xmlns:map="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/map"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="com.newbies.terrateam.terratechnica2k17.MapsActivity" />
+
+</LinearLayout>

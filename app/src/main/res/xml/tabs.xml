@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        id="@+id/tab_about_us"
+        icon="@drawable/home"
+        title="About"/>
+    <tab
+        id="@+id/tab_events"
+        icon="@drawable/event"
+        title="Events"/>
+    <tab
+        id="@+id/tab_instagram"
+        icon="@drawable/sponsor"
+        title="Sponsor"/>
+    <tab
+        id="@+id/tab_contact"
+        icon="@drawable/contact"
+        title="Contact"/>
+</tabs>
